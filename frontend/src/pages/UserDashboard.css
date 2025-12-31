@@ -1,0 +1,32 @@
+.empty-state {
+  text-align: center;
+  padding: 3rem;
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.request-details {
+  margin: 1.5rem 0;
+}
+
+.request-details p {
+  margin: 0.75rem 0;
+  color: #666;
+  line-height: 1.6;
+}
+
+.details-content {
+  margin-bottom: 1.5rem;
+}
+
+.details-content p {
+  margin: 1rem 0;
+  color: #666;
+  line-height: 1.6;
+}
+
+.details-content strong {
+  color: #333;
+  font-weight: 600;
+}
+
