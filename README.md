@@ -1,4 +1,4 @@
-# Maintenance Management System 
+# Maintenance Management System for companies 
 
 A full-stack maintenance management system with role-based access control.
 
@@ -66,4 +66,3 @@ Backend runs on `http://localhost:3000`
 - `GET /api/team/available` - Get available technicians (Admin only)
 - `POST /api/team/assign` - Assign technician (Admin only)
 - `PUT /api/team/remove/:userId` - Remove technician (Admin only)
-
